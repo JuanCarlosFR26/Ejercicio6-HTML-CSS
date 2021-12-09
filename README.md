@@ -1,1 +1,15 @@
 # Ejercicio6-HTML-CSS
+
+Ejercicio sesión 6
+Para este ejercicio vas a crear en el archivo HTML:
+
+
+
+Un párrafo.
+
+Un párrafo con la class miparrafo.
+
+Un párrafo dentro de un contenedor div.
+
+Un párrafo dentro de un contenedor div con la clase miparrafo.
+Mediante el uso de CSS aplica a cada uno un color de letra distinto.
